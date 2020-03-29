@@ -1,4 +1,4 @@
-layout: stacked
+layout: sidebar
 style: dark
 
 plugins:
@@ -23,7 +23,7 @@ topics:
 
   - name: Python
     web_url: https://github.com/topics/css
-    image_url: https://teeltechcanada.com/2015/wp-content/uploads/2017/06/Python-Logo-PNG-Image.png
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png
 
   - name: Sass
     web_url: https://github.com/topics/sass
